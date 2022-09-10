@@ -1,3 +1,5 @@
+# ⚠️ これは正常に動きません。使用しないでください
+
 <div align="center">
 
 ![Last commit](https://img.shields.io/github/last-commit/HidemaruOwO/discordjs-hcaptcha?style=flat-square)
